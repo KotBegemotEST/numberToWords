@@ -1,0 +1,11 @@
+.wrapper{
+  border:2px solid black;
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+input{
+  margin: auto;
+}
